@@ -52,6 +52,6 @@
     "test": "make test-all"
   },
   "optionalDependencies": {
-    "reds": "^0.2.5"
+    "reds": "1.x"
   }
 }
